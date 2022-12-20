@@ -8,19 +8,19 @@
 Program Array 2 dimensi, Menukar baris dan kolom sebuah array
   
 # Source Code
-#include<iostream>
-#include<conio.h>
-using namespace std;
+	#include<iostream>
+	#include<conio.h>
+	using namespace std;
 
-int main(){
+	int main(){
 	cout<<"Membalikkan Baris dan Kolom Array\n";
 	cout<<"=================================\n";	
 	//Input baris dan kolom array dimensi 2
-    int i,j,b,k;
+    	int i,j,b,k;
 	cout<<"Masukkan baris: ";cin>>b;
 	cout<<"Masukkan kolom: ";cin>>k;
-    int a[b][k];
-    int aa[k][b];
+    	int a[b][k];
+    	int aa[k][b];
     
 	//Input Nilai
 	for(i = 1; i <= b; i++){    
