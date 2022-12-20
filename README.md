@@ -54,15 +54,15 @@ int main(){
 	cout<<"\n==================================\n";
 	cout<<"Dimas Arya N <"<<"> 1227050038";
    	getch();
-  }
+	}
   
 # Output
   Array :
-      1    2    3    4
-      5    6    7    8
+  <br>1    2    3    4
+  <br>5    6    7    8
 
   Array Terbalik :
-      1    5
-      2    6
-      3    7
-    4    8
+  <br>1    5
+  <br>2    6
+  <br>3    7
+  <br>4    8
