@@ -6,6 +6,13 @@
 
 # Deskripsi Umum
 Program Array 2 dimensi, Menukar baris dan kolom sebuah array
+Algoritma dari Source code ini yaitu :
+
+User menginputkan berapa banyak baris pada array.
+User menginputkan berapa banyak kolom dari baris pada array.
+User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
+Jika sudah,Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+Lalu ditampilkan juga nilai dalam array yang sudah dibalik,dari baris menjadi kolom dan sebaliknya.
   
 # Source Code
 	#include<iostream>
