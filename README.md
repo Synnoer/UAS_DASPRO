@@ -64,12 +64,4 @@
 	}
   
 # Output
-  Array :
-  <br>1    2    3    4
-  <br>5    6    7    8
-
-  Array Terbalik :
-  <br>1    5
-  <br>2    6
-  <br>3    7
-  <br>4    8
+<img src="https://github.com/Synnoer/UAS_DASPRO/blob/main/UAS1.png">
