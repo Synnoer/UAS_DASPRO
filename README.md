@@ -5,14 +5,14 @@
 <br>Jurusan	: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
 # Deskripsi Umum
-Program Array 2 dimensi, Menukar baris dan kolom sebuah array
-Algoritma dari Source code ini yaitu :
+<br>Program Array 2 dimensi, Menukar baris dan kolom sebuah array
+<br>Algoritma dari Source code ini yaitu :
 
-User menginputkan berapa banyak baris pada array.
-User menginputkan berapa banyak kolom dari baris pada array.
-User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
-Jika sudah,Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
-Lalu ditampilkan juga nilai dalam array yang sudah dibalik,dari baris menjadi kolom dan sebaliknya.
+<br>1. User menginputkan berapa banyak baris pada array.
+<br>2. User menginputkan berapa banyak kolom dari baris pada array.
+<br>3. User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
+<br>4. Jika sudah,Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+<br>5. Lalu ditampilkan juga nilai dalam array yang sudah dibalik,dari baris menjadi kolom dan sebaliknya.
   
 # Source Code
 	#include<iostream>
